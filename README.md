@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/greenbinary/nafarid" alt="nafarid's 42 stats" />
+  </a>
+</p>
+
 <h1 align="center">Hi, I'm Farid 👋</h1>
 
 <p align="center">
@@ -85,4 +91,3 @@ Understanding how HTTP works from scratch.
   🚀 *"Code. Break things. Fix them. Learn. Repeat."*  
 </p>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/nafarid" alt="nafarid's 42 stats" /></a>
