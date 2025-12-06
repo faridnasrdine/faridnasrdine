@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **faridnasrdine/faridnasrdine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/nafarid" alt="nafarid's 42 stats" /></a>
