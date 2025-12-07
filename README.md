@@ -74,7 +74,7 @@ Understanding how HTTP works from scratch.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=farid&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nasrdine&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=farid&theme=dark" />
 </p>
 
