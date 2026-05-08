@@ -60,11 +60,12 @@ I'm a **1337 (42 Network)** student with a deep passion for low-level programmin
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasrdine&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nasrdine&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasrdine&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
