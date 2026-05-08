@@ -78,6 +78,12 @@ I believe great software starts with clear thinking — not clever shortcuts.
 
 ---
 
+## 📫 Reach Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-nafarid.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nafarid.me)
+
+---
+
 <div align="center">
 
 **Open to collaborations, internships, and interesting problems. Let's build something great.**
