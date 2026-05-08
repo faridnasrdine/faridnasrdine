@@ -8,7 +8,7 @@
 
 [![42 Stats](https://badge.mediaplus.ma/greenbinary/nafarid)](https://github.com/oakoudad/badge42)
 &nbsp;&nbsp;
-[![Profile Views](https://visitcount.itsvg.in/api?id=nasrdine&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=faridnasrdine&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -60,12 +60,11 @@ I'm a **1337 (42 Network)** student with a deep passion for low-level programmin
 
 <div align="center">
 
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faridnasrdine&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=faridnasrdine&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faridnasrdine&theme=tokyonight)
 
 </div>
 
