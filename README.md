@@ -1,92 +1,85 @@
-
-<!--
-**faridnasrdine/faridnasrdine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/greenbinary/nafarid" alt="nafarid's 42 stats" />
-  </a>
-</p>
-
 <div align="center">
 
-# 💫 About Me
-
-**nafarid's 42 stats**
-
-Hi, I'm **Farid** 👋  
-**1337 Student | Software Developer | Problem Solver**  
-Passionate about clean logic, low-level programming, and building things that actually work.
-
----
-
-### 🚀 About Me  
-🎓 1337 (42 Network) Student  
-💡 Obsessed with learning, algorithms, and system design  
-🧩 Love solving complex problems and writing efficient code  
-🎯 Currently improving my skills in **C, C++, Rust, and Web Development**
-
----
-
-### 🛠️ Skills & Technologies
-
-#### Core  
-🧠 Algorithms & Data Structures  
-⚙️ Low-level programming  
-🖥️ System programming  
-
-#### Languages  
-C, C++, Python, Bash, JavaScript  
-
-#### Tools  
-Git & GitHub • Linux/Shell • Docker • Makefile • VS Code / Vim  
-
----
-
-### 📌 Featured Projects  
-🧱 **Inception** — Docker-based mini-infrastructure  
-🎮 **Mini 3D Game (cub3D)** — Raycasting engine  
-🐚 **My Shell** — Fully functional shell  
-🌐 **Web Server** — Understanding HTTP from scratch  
-
----
-
-# 💻 Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=nasrdine&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=nasrdine&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nasrdine&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=nasrdine&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<br>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Farid%20Nasrdine&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%201337%20Student%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" />
 
 </div>
 
+<div align="center">
 
+[![42 Stats](https://badge.mediaplus.ma/greenbinary/nafarid)](https://github.com/oakoudad/badge42)
+&nbsp;&nbsp;
+[![Profile Views](https://visitcount.itsvg.in/api?id=nasrdine&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+## 👋 Hey, I'm Farid
+
+I'm a **1337 (42 Network)** student with a deep passion for low-level programming, system design, and building things that *actually work*. I thrive on hard problems, clean logic, and understanding how things work under the hood.
+
+- 🎓 Currently studying at **1337 — part of the 42 Network**
+- 🔧 Focused on **C, C++, Rust**, and expanding into **Web Development**
+- 🧩 Obsessed with **algorithms, system internals, and efficient code**
+- 🌱 Always learning — always building
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🐳 **Inception** | Docker-based mini-infrastructure — orchestrating services from scratch | Docker, Makefile |
+| 🎮 **cub3D** | Raycasting 3D engine inspired by Wolfenstein 3D | C, MLX |
+| 🐚 **minishell** | Fully functional UNIX shell with builtins, pipes, and redirections | C |
+| 🌐 **WebServ** | HTTP/1.1 web server built from scratch — no libraries | C++ |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasrdine&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nasrdine&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasrdine&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+## 💬 Philosophy
+
+> *"First, solve the problem. Then, write the code."*
+
+I believe great software starts with clear thinking — not clever shortcuts.
+
+---
+
+<div align="center">
+
+**Open to collaborations, internships, and interesting problems. Let's build something great.**
+
+</div>
