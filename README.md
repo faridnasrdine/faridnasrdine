@@ -6,9 +6,8 @@
 
 <div align="center">
 
-[![42 Stats](https://badge.mediaplus.ma/greenbinary/nafarid)](https://github.com/oakoudad/badge42)
+[![42 Stats](https://badge.mediaplus.ma/greenbinary/nafarid)](https://nafarid.me)
 &nbsp;&nbsp;
-[![Profile Views](https://visitcount.itsvg.in/api?id=faridnasrdine&icon=0&color=0)](https://nafarid.me)
 
 </div>
 
