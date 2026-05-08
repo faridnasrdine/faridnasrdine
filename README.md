@@ -8,7 +8,7 @@
 
 [![42 Stats](https://badge.mediaplus.ma/greenbinary/nafarid)](https://github.com/oakoudad/badge42)
 &nbsp;&nbsp;
-[![Profile Views](https://visitcount.itsvg.in/api?id=faridnasrdine&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=faridnasrdine&icon=0&color=0)](https://nafarid.me)
 
 </div>
 
