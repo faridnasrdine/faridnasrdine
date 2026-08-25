@@ -70,6 +70,8 @@ I'm a **1337 (42 Network)** student with a deep passion for low-level programmin
 
 [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/10b8e934-2e26-4636-8def-a0f7042df21a.jpeg?v=1787656953)](https://www.boot.dev/certificates/10b8e934-2e26-4636-8def-a0f7042df21a)
 
+[![Boot.dev Learn JavaScript certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/0bbaf272-1ff5-42ae-afc0-6010da403573.jpeg?v=1785709257)](https://www.boot.dev/certificates/0bbaf272-1ff5-42ae-afc0-6010da403573)
+
 ## 💬 Philosophy
 
 > *"First, solve the problem. Then, write the code."*
