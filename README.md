@@ -11,7 +11,7 @@
 
 ---
 
-## 👋 Hey, I'm Farid
+## Hey, I'm Farid
 
 I'm a **1337 (42 Network)** student with a deep passion for low-level programming, system design, and building things that *actually work*. I thrive on hard problems, clean logic, and understanding how things work under the hood.
 
